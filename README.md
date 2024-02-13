@@ -1,3 +1,5 @@
+# FIGMA_CLONE
+
 npx create-next-app@latest
 
 npm i fabric uuid @liveblocks/client @liveblocks/react

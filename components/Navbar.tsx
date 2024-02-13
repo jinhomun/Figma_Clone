@@ -18,7 +18,8 @@ const Navbar = ({ activeElement, imageInputRef, handleImageUpload, handleActiveE
 
   return (
     <nav className="flex select-none items-center justify-between gap-4 bg-primary-black px-5 text-white">
-      <Image src="/assets/logo.svg" alt="FigPro Logo" width={58} height={20} />
+      {/* <Image src="/assets/logo.svg" alt="FigPro Logo" width={58} height={20} /> */}
+      <h2 className="">hogma pro </h2>
 
       <ul className="flex flex-row">
         {navElements.map((item: ActiveElement | any) => (
