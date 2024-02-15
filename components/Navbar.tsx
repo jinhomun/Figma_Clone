@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import "./globals.css";
+
 import { memo } from "react";
 
 import { navElements } from "@/constants";
